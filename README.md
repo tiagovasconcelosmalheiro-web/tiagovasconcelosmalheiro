@@ -37,4 +37,4 @@ I'm constantly learning, experimenting, and turning ideas into real applications
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagovasconcelosmalheiro-web&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagovasconcelosmalheiro&show_icons=true&theme=default)
