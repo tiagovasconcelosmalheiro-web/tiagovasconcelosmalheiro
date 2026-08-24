@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tiago Vasconcelos Malheiro 👋
 
 <h4 align="center"> AI-Driven Developer | Full-Stack Builder | Computer Science </h4>
 
@@ -6,7 +6,7 @@
 
 ### 💫 About Me
 I'm a passionate developer who loves building useful and scalable applications. 
-I'm constantly learning, experimenting, and turning ideas into real applications with impact.
+I'm constantly learning, experimenting, and turning ideas into real applications with impact. I speak English, French, Portuguese, Spanish and I am currently learning Mandarin!
 
 ---
 
