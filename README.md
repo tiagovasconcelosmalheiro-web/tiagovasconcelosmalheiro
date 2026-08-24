@@ -11,7 +11,8 @@ I'm constantly learning, experimenting, and turning ideas into real applications
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tiago Vasconcelos Malheiro) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagovasconcelosmalheiro) 
+[![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=white)](https://profile.indeed.com/p/tiagovasconcelosmalheiro)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiago.vasconcelos.malheiro@gmail.com)
 
 ---
